@@ -1,3 +1,11 @@
+## 内臓PCカメラでじゃんけん検出  
+#### 環境構築(conda)  
+conda env create -f environment/env_yolov5.yml  
+#### 推論実行
+python detect.py --source 0 --weight best_goochokipar.pt 
+## 参考資料  
+https://qiita.com/PoodleMaster/items/5f2cc3248c03b03821b8   
+  
 <div align="center">
 <p>
 <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
