@@ -103,4 +103,4 @@ dependencies:
     - torch==1.9.0
     - torchvision==0.10.0
     - werkzeug==2.0.1
-prefix: C:\Users\genki\miniconda3\envs\yolov5
+
